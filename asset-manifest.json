@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Smit_Portfolio_Developer/static/css/main.870c65e0.css",
+    "main.js": "/Smit_Portfolio_Developer/static/js/main.71d140d9.js",
+    "static/js/453.6703cfa4.chunk.js": "/Smit_Portfolio_Developer/static/js/453.6703cfa4.chunk.js",
+    "static/media/bg.png": "/Smit_Portfolio_Developer/static/media/bg.6bee84e3323f18653849.png",
+    "index.html": "/Smit_Portfolio_Developer/index.html",
+    "main.870c65e0.css.map": "/Smit_Portfolio_Developer/static/css/main.870c65e0.css.map",
+    "main.71d140d9.js.map": "/Smit_Portfolio_Developer/static/js/main.71d140d9.js.map",
+    "453.6703cfa4.chunk.js.map": "/Smit_Portfolio_Developer/static/js/453.6703cfa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870c65e0.css",
+    "static/js/main.71d140d9.js"
+  ]
+}
