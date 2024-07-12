@@ -1,0 +1,22 @@
+section{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px;
+}
+.cards{
+  width: 310px;
+    height: 550px;
+    margin: 20px 50px;
+    padding: 18px;
+    background: rgba(5, 0, 0, .3);
+    box-shadow: 0 8px 32px #872f1f5e;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px 0 solid rgba(255, 255, 255, .18);
+    border-radius: 15px;
+    transition: .2s all ease-in-out;
+    cursor: pointer;
+
+}

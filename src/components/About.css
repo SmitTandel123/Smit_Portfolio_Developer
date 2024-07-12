@@ -1,0 +1,8 @@
+.download {
+  box-shadow: 0 10px 35px #42d2165e;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px 0 solid rgba(255, 255, 255, 0.18);
+  transition: 0.2s all ease-in-out;
+  cursor: pointer;
+}
